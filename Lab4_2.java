@@ -1,4 +1,4 @@
-public class lab4_2 {
+public class Lab4_2 {
     public static void main(String[] args) {
         try {
             System.out.println("0");
